@@ -1,0 +1,7 @@
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+c:\users\n1302775\documents\visual studio 2013\Projects\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
