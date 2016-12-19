@@ -17,7 +17,6 @@ namespace ACM.BL
         {
             this.CustomerId = customerId;
             AddressList = new List<Address>();
-            // end
         }
 
         public List<Address> AddressList { get; set; }
