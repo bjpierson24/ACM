@@ -66,9 +66,21 @@ namespace ACM.BL
 
         
 
-        public bool Save()
+        public bool Save(Order order)
         {
-            return true;
+            var success = true;
+            if (order.HasChanges && order.IsValid)
+            {
+                if (order.IsNew)
+                {
+                    // Call an Insert Stored Procedure
+                }
+                else
+                {
+                    // Call an Update Stored Procedure
+                }
+            }
+            return success;
         }
     }
 }

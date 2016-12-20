@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    public class Customer
+    public class Customer : EntityBase
     {
         public Customer() : this(0)
         {
@@ -69,6 +69,11 @@ namespace ACM.BL
             if (string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
 
             return isValid;
+        }
+
+        public override string ToString()
+        {
+            return FullName;
         }
     }
 }
